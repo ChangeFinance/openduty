@@ -17,3 +17,5 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+
+SECRET_KEY = 'sfsdfo34jgh956y56k467lkjkdgjklfn43qre'
